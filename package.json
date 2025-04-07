@@ -15,5 +15,9 @@
     "react-dom": "latest",
     "tailwindcss": "^3.0.0",
     "typescript": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/react": "^19.1.0"
   }
 }
